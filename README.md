@@ -1,7 +1,6 @@
 Click on picture to go to live demo.
 
-<video width="560" height="315" src="https://www.youtube.com/embed/zmtV8_HebXA" controls preload></video>
-[![image](https://i9.ytimg.com/vi/zmtV8_HebXA/mq2.jpg?sqp=CKCTg-YF&rs=AOn4CLB69CmyL6LW_K9IvlwMa-yGPUx2mg)](https://www.youtube.com/embed/zmtV8_HebXA)
+[![To-do list using \(React\)](https://i9.ytimg.com/vi/zmtV8_HebXA/mq2.jpg?sqp=CNCph-YF&rs=AOn4CLByFAWx2hxq60UkzeIGXHqCKCz3hg)](https://www.youtube.com/embed/zmtV8_HebXA)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
